@@ -4,18 +4,34 @@ body {
 }
 h1{
     text-align: center;
+    font-size: 60px;
+    margin-right: 10%;
+    margin-left: 20%;
+    background-color: #161A40;
 }
 p{
-    margin-right: 40%;
+    font: bold 20px;
 }
 nav{
     text-align: center;
+    background-color:#161A40;
+    height: 28px;
+    font-size: 21px;
 }
 h2{
     text-align: center;
-    margin-right: 40%;
+    font-size: 30px;
 }
 img{
-    width: 40%;
+    width: 18%;
     float: left;
+}
+footer{
+    height: 70px;
+    color: #52FFEB;
+    background-color: #161A40;
+    font-size: 18px;
+}
+a{
+    color:#52FFEB;
 }
