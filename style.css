@@ -1,17 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 body {
     background-color: #52FFEB;
     color: #161A40;
 }
 h1{
+    font-family: "Open Sans";
     text-align: center;
-    font-size: 60px;
-    margin-right: 13%;
+    font-size: 52px;
+    margin-right: 11%;
     margin-left: 17%;
     background-color: #161A40;
     color: #52FFEB;
 }
 p{
-    font-size: 20px;
+    font-size: 16px;
+    font-family: "Open Sans";
 }
 nav{
     text-align: center;
@@ -21,25 +24,38 @@ nav{
 }
 h2{
     text-align: center;
-    font-size: 30px;
+    font-size: 36px;
+    font-family: "Open Sans";
 }
 .logo img{
     width: 18%;
     float: left;
 }
 .product1 img{
-    width: 15%;
+    width: 24%;
+    float: right;
+    margin-right: 30%;
+}
+.product2 img{
+    width: 20%;
+    float: right;
+    margin-right: 10%;
 }
 footer{
-    height: 70px;
+    height: 140px;
     color: #52FFEB;
     background-color: #161A40;
-    font-size: 18px;
+    font-size: 15px;
 }
 a{
     color:#52FFEB;
 }
 li{
     font-weight: bold;
-    font-size: 20px;
+    font-size: 22px;
+    font-family: "Open Sans";
+}
+h3{
+   font-size: 28px; 
+   font-family: "Open Sans";
 }
